@@ -6,7 +6,11 @@ Contact Form表单提交自动发送邮件（仅一个PHP文件）
 
 在线调试演示界面：
 ![img_v3_02cg_9e655efc-281c-4f0a-bbc0-7c8d140f48bg](https://github.com/AokSend/Contact-Form-Submit-Send-Email/assets/161785952/8569b084-4149-4d2c-9ab7-e754c76b5073)
+
 仅需更改上图所示内容。
+
+样式展示如图：
+![img_v3_02cg_f3deb7b0-ea87-41e7-9719-3b51aa77846g](https://github.com/AokSend/Contact-Form-Submit-Send-Email/assets/161785952/4181f3c9-8e17-4338-bb76-828863d2c7fd)
 
 AokSend官网：https://www.aoksend.com/
 AokSend新手教程：https://www.aoksend.com/doc/?id=84
