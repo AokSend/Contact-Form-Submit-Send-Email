@@ -1,4 +1,5 @@
 联系表单Contact Form提交自动发送邮件
+
 简述：
 联系表单提交Contact Form自动发送邮件源码，仅需一个php文件实现联系表单自动发送邮件，实现超简单实现联系表单Contact Form自动发送邮件，且不用SMTP实现联系表单提交后发送邮件到指定邮箱
 Contact Form表单提交自动发送邮件（仅一个PHP文件）
